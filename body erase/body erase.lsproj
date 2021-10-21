@@ -1,0 +1,1059 @@
+{
+    "lens_id": "",
+    "document_id": "O5_V8OWlAJaMAZME0SJ5",
+    "original_document_id": "O5_V8OWlAJaMAZME0SJ5",
+    "version": "28",
+    "lastChanged": "1634631742501",
+    "preview": "icon.png",
+    "videoPreview": "preview.mp4",
+    "videoPreviewUpdateTime": "",
+    "isReadOnly": "false",
+    "isAutoSaved": "false",
+    "api_level": "public",
+    "public_api_user_data_access": "unrestricted",
+    "studioVersion": {
+        "createdWith": {
+            "type": "Public",
+            "major": "4",
+            "minor": "4",
+            "patch": "1",
+            "build": "0"
+        },
+        "lastSavedWith": {
+            "type": "Public",
+            "major": "4",
+            "minor": "4",
+            "patch": "1",
+            "build": "0"
+        }
+    },
+    "view": {
+        "ResourceUiComponent": {
+            "collapsedList": [
+                [
+                    [
+                        "Echopark"
+                    ],
+                    [
+                        "Echopark",
+                        "Diff"
+                    ],
+                    [
+                        "Echopark",
+                        "Specular"
+                    ],
+                    [
+                        "~Resources"
+                    ],
+                    [
+                        "~Resources",
+                        "Misc"
+                    ],
+                    [
+                        "~Resources",
+                        "Misc",
+                        "Body Segmentation"
+                    ],
+                    [
+                        "~Resources",
+                        "Misc",
+                        "Eraser Resources"
+                    ],
+                    [
+                        "~Resources",
+                        "Misc",
+                        "Eraser Resources",
+                        "Materials"
+                    ],
+                    [
+                        "~Resources",
+                        "Misc",
+                        "Eraser Resources",
+                        "Materials",
+                        "Composition"
+                    ],
+                    [
+                        "~Resources",
+                        "Misc",
+                        "Eraser Resources",
+                        "Materials",
+                        "Contraction"
+                    ],
+                    [
+                        "~Resources",
+                        "Misc",
+                        "Eraser Resources",
+                        "Materials",
+                        "ContractionAll"
+                    ],
+                    [
+                        "~Resources",
+                        "Misc",
+                        "Eraser Resources",
+                        "Materials",
+                        "FinalMerge"
+                    ],
+                    [
+                        "~Resources",
+                        "Misc",
+                        "Eraser Resources",
+                        "Materials",
+                        "ImageMaskDownsample"
+                    ],
+                    [
+                        "~Resources",
+                        "Misc",
+                        "Eraser Resources",
+                        "Scripts"
+                    ],
+                    [
+                        "~Resources",
+                        "Misc",
+                        "Eraser Resources",
+                        "Scripts",
+                        "Eraser"
+                    ],
+                    [
+                        "~Resources",
+                        "Misc",
+                        "Eraser Resources",
+                        "Textures"
+                    ],
+                    [
+                        "~Resources",
+                        "Misc",
+                        "Eraser Resources",
+                        "Textures",
+                        "Screen Texture"
+                    ],
+                    [
+                        "~Resources",
+                        "Misc",
+                        "erased"
+                    ]
+                ]
+            ]
+        },
+        "SceneTreeUiComponent": {
+            "collapsedList": [
+                ""
+            ],
+            "selectionSetList": ""
+        },
+        "MetaInfoUIComponent": {
+            "hints": "",
+            "lens": "Untitled",
+            "applicability": "3",
+            "lens_descriptors": "",
+            "HermosaUseAllowed": "false"
+        },
+        "PreviewUiComponent": {
+            "preview_descriptor": {
+                "is_capture": "0",
+                "camera_type": "2"
+            },
+            "show_snap_ui": "true",
+            "show_sponsored_ui": "false",
+            "preview_images_project_config": {
+                "back_preview_id": "bundle:Preview\/Images\/Beach.jpg",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/Images\/Person 1.jpg",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:Preview\/Images\/Pavement\/Pavement.jpg",
+                "spectacles_preview_is_favorite": "false"
+            },
+            "preview_videos_project_config": {
+                "back_preview_id": "bundle:Preview\/Videos\/Beach.webm",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/Videos\/Idle Person 1.webm",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "",
+                "spectacles_preview_is_favorite": "false"
+            },
+            "preview_ie_project_config": {
+                "back_preview_id": "bundle:Preview\/InteractiveEnvironments\/Colorful Home",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/InteractiveEnvironments\/Colorful Home",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:Preview\/InteractiveEnvironments\/Colorful Home",
+                "spectacles_preview_is_favorite": "false"
+            }
+        },
+        "InspectorUiComponent": {
+            "collapsedList": [
+                ""
+            ]
+        },
+        "ObjectTracking3DUIComponent": {
+            "foldedOwnerSceneObjects": ""
+        },
+        "Material::UiComponent": {
+            "active_graph_asset": "-1:-1"
+        },
+        "Script::UiComponent": {
+            "active_graph_asset": "-1:-1"
+        },
+        "VFX::UiComponent": {
+            "active_graph_asset": "-1:-1"
+        }
+    },
+    "model": {
+        "IResourceManager": {
+            "list": [
+                {
+                    "resId": "1",
+                    "uid": "1:1",
+                    "name": "Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "2",
+                    "uid": "2:2",
+                    "name": "Camera Input",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "10",
+                    "uid": "1588296316843646:534374",
+                    "name": "Files\/File3.jpeg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "11",
+                    "uid": "1588296316857901:534385",
+                    "name": "Files\/File5.jpeg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "12",
+                    "uid": "1634631637544515:3842",
+                    "name": "Files\/File8",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "13",
+                    "uid": "1634631637596043:3859",
+                    "name": "Files\/File10",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "14",
+                    "uid": "1634631637644593:3876",
+                    "name": "Files\/File12",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "15",
+                    "uid": "1634631637688595:3893",
+                    "name": "Files\/File14",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "16",
+                    "uid": "1634631637738344:3914",
+                    "name": "Files\/File16",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "17",
+                    "uid": "1634631637782083:3929",
+                    "name": "Screen Texture",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "18",
+                    "uid": "1634631637787859:3939",
+                    "name": "Files\/File18.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "19",
+                    "uid": "1634631637797318:3951",
+                    "name": "Render Target",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "20",
+                    "uid": "1634631637798883:3965",
+                    "name": "Portrait Background Segmentation",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                }
+            ],
+            "MaterialUpdateManager": {
+                "unrecognizedMaterials": ""
+            }
+        },
+        "InspectorComponent": {
+            "Component": {
+                "EyeColorVisual": {
+                    "uidData": "",
+                    "generalData": ""
+                },
+                "FaceStretchVisual": {
+                    "uidsToFeatureNamesWithIntensity": ""
+                },
+                "ScreenTransform": {
+                    "uidData": [
+                        {
+                            "k": "1634631638093853:4087",
+                            "v": {
+                                "isBasicMode": "false",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        }
+                    ],
+                    "generalData": ""
+                }
+            }
+        },
+        "RenderOrderComponent": {
+            "autoRenderOrder": {
+                "0": "1517446348227994:84813",
+                "1": "1517446348228144:84822",
+                "2": "1528843813151434:5126",
+                "3": "1634631637805503:3998",
+                "4": "1634631637805937:4000",
+                "5": "1634631637806227:4002"
+            }
+        },
+        "LayerComponent": {
+            "nextLayerId": "2",
+            "showOrthographicLayer": "true",
+            "layersInfo": [
+                {
+                    "layerId": "0",
+                    "layerName": "Default Layer",
+                    "layerMask": "1",
+                    "colorCode": "20"
+                },
+                {
+                    "layerId": "1",
+                    "layerName": "Orthographic Layer",
+                    "layerMask": "1048576",
+                    "colorCode": "21"
+                }
+            ]
+        },
+        "IFileManager": {
+            "pathes": [
+                {
+                    "k": "3",
+                    "v": "Files\/File3.jpeg"
+                },
+                {
+                    "k": "4",
+                    "v": "Files\/File4.jpeg"
+                },
+                {
+                    "k": "5",
+                    "v": "Files\/File5.jpeg"
+                },
+                {
+                    "k": "6",
+                    "v": "Files\/File6.jpeg"
+                },
+                {
+                    "k": "7",
+                    "v": "Files\/File7.hdr"
+                },
+                {
+                    "k": "8",
+                    "v": "Files\/File8"
+                },
+                {
+                    "k": "9",
+                    "v": "Files\/File9.lsmat"
+                },
+                {
+                    "k": "10",
+                    "v": "Files\/File10"
+                },
+                {
+                    "k": "11",
+                    "v": "Files\/File11.lsmat"
+                },
+                {
+                    "k": "12",
+                    "v": "Files\/File12"
+                },
+                {
+                    "k": "13",
+                    "v": "Files\/File13.lsmat"
+                },
+                {
+                    "k": "14",
+                    "v": "Files\/File14"
+                },
+                {
+                    "k": "15",
+                    "v": "Files\/File15.lsmat"
+                },
+                {
+                    "k": "16",
+                    "v": "Files\/File16"
+                },
+                {
+                    "k": "17",
+                    "v": "Files\/File17.lsmat"
+                },
+                {
+                    "k": "18",
+                    "v": "Files\/File18.js"
+                }
+            ]
+        },
+        "WorldComponent": {
+            "sceneFile": "scene.scn",
+            "sceneType": "binaryScene"
+        }
+    },
+    "controller": {
+        "IResourceController": {
+            "public": {
+                "pathes": [
+                    {
+                        "k": "967",
+                        "v": "Echopark.hdr"
+                    },
+                    {
+                        "k": "968",
+                        "v": "~Resources"
+                    },
+                    {
+                        "k": "969",
+                        "v": "~Resources\/Misc"
+                    },
+                    {
+                        "k": "970",
+                        "v": "~Resources\/Misc\/Eraser Resources"
+                    },
+                    {
+                        "k": "971",
+                        "v": "~Resources\/Misc\/Eraser Resources\/Materials"
+                    },
+                    {
+                        "k": "972",
+                        "v": "~Resources\/Misc\/Eraser Resources\/Materials\/Contraction.lsmat"
+                    },
+                    {
+                        "k": "973",
+                        "v": "~Resources\/Misc\/Eraser Resources\/Materials\/FinalMerge.lsmat"
+                    },
+                    {
+                        "k": "974",
+                        "v": "~Resources\/Misc\/Eraser Resources\/Materials\/Composition.lsmat"
+                    },
+                    {
+                        "k": "975",
+                        "v": "~Resources\/Misc\/Eraser Resources\/Materials\/ImageMaskDownsample.lsmat"
+                    },
+                    {
+                        "k": "976",
+                        "v": "~Resources\/Misc\/Eraser Resources\/Materials\/ContractionAll.lsmat"
+                    },
+                    {
+                        "k": "977",
+                        "v": "~Resources\/Misc\/Eraser Resources\/Textures"
+                    },
+                    {
+                        "k": "978",
+                        "v": "~Resources\/Misc\/Eraser Resources\/Scripts"
+                    },
+                    {
+                        "k": "979",
+                        "v": "~Resources\/Misc\/Eraser Resources\/Scripts\/Eraser.js"
+                    }
+                ],
+                "hashes": [
+                    {
+                        "k": "1",
+                        "v": "671afbc1d6810060ccbaac866a91cfa1"
+                    },
+                    {
+                        "k": "2",
+                        "v": "8e599835d0d45c5879eafb1f474469cd"
+                    },
+                    {
+                        "k": "967",
+                        "v": "0cf0e87a54f33218fcf92a12d7f0ede2"
+                    },
+                    {
+                        "k": "972",
+                        "v": "1f0f3b1fb51c56f23b9820d4545361c8"
+                    },
+                    {
+                        "k": "973",
+                        "v": "4d0e8b9610b4cd4a7e47e14833c684f6"
+                    },
+                    {
+                        "k": "974",
+                        "v": "623dc828a080d6dfe61237b44818dc04"
+                    },
+                    {
+                        "k": "975",
+                        "v": "f8cbb193bb233566b91cbc527c50ba9f"
+                    },
+                    {
+                        "k": "976",
+                        "v": "aee95189e2741f5221613e07618400e5"
+                    },
+                    {
+                        "k": "979",
+                        "v": "c961a954e0a4eb06169256d56e6f1d23"
+                    }
+                ],
+                "publicState": {
+                    "tree": {
+                        "isFolder": "true",
+                        "lastModified": "2021-10-19T13:50:37",
+                        "name": "Public",
+                        "hash": "b9e048a598075694c853e993cf518039",
+                        "children": [
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2021-09-24T08:45:08",
+                                "name": "Echopark.hdr",
+                                "hash": "0cf0e87a54f33218fcf92a12d7f0ede2",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2021-09-24T08:45:08",
+                                "name": "folder.lock",
+                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2021-10-19T13:50:37",
+                                "name": "~Resources",
+                                "hash": "d18e821559f84ecae094f221107f7f94",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2021-10-19T13:50:37",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2021-10-19T13:50:37",
+                                        "name": "Misc",
+                                        "hash": "3a390a763643d3761293cee5e6d223e5",
+                                        "children": [
+                                            {
+                                                "isFolder": "true",
+                                                "lastModified": "2021-10-19T13:50:37",
+                                                "name": "Eraser Resources",
+                                                "hash": "b91a779c42c3508772e705faeed4fa14",
+                                                "children": [
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2021-10-19T13:50:37",
+                                                        "name": "folder.lock",
+                                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "true",
+                                                        "lastModified": "2021-10-19T13:50:38",
+                                                        "name": "Materials",
+                                                        "hash": "4dd527ea127bdfbce4a6b22369964600",
+                                                        "children": [
+                                                            {
+                                                                "isFolder": "false",
+                                                                "lastModified": "2021-10-19T13:50:38",
+                                                                "name": "Composition.lsmat",
+                                                                "hash": "623dc828a080d6dfe61237b44818dc04",
+                                                                "children": ""
+                                                            },
+                                                            {
+                                                                "isFolder": "false",
+                                                                "lastModified": "2021-10-19T13:50:38",
+                                                                "name": "Contraction.lsmat",
+                                                                "hash": "1f0f3b1fb51c56f23b9820d4545361c8",
+                                                                "children": ""
+                                                            },
+                                                            {
+                                                                "isFolder": "false",
+                                                                "lastModified": "2021-10-19T13:50:38",
+                                                                "name": "ContractionAll.lsmat",
+                                                                "hash": "aee95189e2741f5221613e07618400e5",
+                                                                "children": ""
+                                                            },
+                                                            {
+                                                                "isFolder": "false",
+                                                                "lastModified": "2021-10-19T13:50:38",
+                                                                "name": "FinalMerge.lsmat",
+                                                                "hash": "4d0e8b9610b4cd4a7e47e14833c684f6",
+                                                                "children": ""
+                                                            },
+                                                            {
+                                                                "isFolder": "false",
+                                                                "lastModified": "2021-10-19T13:50:37",
+                                                                "name": "folder.lock",
+                                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                                "children": ""
+                                                            },
+                                                            {
+                                                                "isFolder": "false",
+                                                                "lastModified": "2021-10-19T13:50:38",
+                                                                "name": "ImageMaskDownsample.lsmat",
+                                                                "hash": "f8cbb193bb233566b91cbc527c50ba9f",
+                                                                "children": ""
+                                                            }
+                                                        ]
+                                                    },
+                                                    {
+                                                        "isFolder": "true",
+                                                        "lastModified": "2021-10-19T13:50:37",
+                                                        "name": "Scripts",
+                                                        "hash": "ac750bcee339ab7066f1217dc37bb400",
+                                                        "children": [
+                                                            {
+                                                                "isFolder": "false",
+                                                                "lastModified": "2021-10-19T13:50:37",
+                                                                "name": "Eraser.js",
+                                                                "hash": "c961a954e0a4eb06169256d56e6f1d23",
+                                                                "children": ""
+                                                            },
+                                                            {
+                                                                "isFolder": "false",
+                                                                "lastModified": "2021-10-19T13:50:37",
+                                                                "name": "folder.lock",
+                                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                                "children": ""
+                                                            }
+                                                        ]
+                                                    },
+                                                    {
+                                                        "isFolder": "true",
+                                                        "lastModified": "2021-10-19T13:50:37",
+                                                        "name": "Textures",
+                                                        "hash": "59adb24ef3cdbe0297f05b395827453f",
+                                                        "children": [
+                                                            {
+                                                                "isFolder": "false",
+                                                                "lastModified": "2021-10-19T13:50:37",
+                                                                "name": "folder.lock",
+                                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                                "children": ""
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-10-19T13:50:37",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "complexResources": ""
+            },
+            "tree": {
+                "name": "",
+                "type": "0",
+                "subtype": "-1",
+                "resourceId": "-1",
+                "dependency": "0",
+                "hidden": "false",
+                "uid": "-1:-1",
+                "fileId": "18446744073709551615",
+                "originalId": "18446744073709551615",
+                "publicId": "18446744073709551615",
+                "source": "",
+                "additional": "",
+                "resources": [
+                    {
+                        "name": "Render Target",
+                        "type": "1",
+                        "subtype": "1",
+                        "resourceId": "1",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1:1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Device Camera Texture",
+                        "type": "1",
+                        "subtype": "3",
+                        "resourceId": "2",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "2:2",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Echopark",
+                        "type": "9",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "2",
+                        "hidden": "false",
+                        "uid": "-1:-1",
+                        "fileId": "7",
+                        "originalId": "18446744073709551615",
+                        "publicId": "967",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Diff",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "10",
+                                "dependency": "1",
+                                "hidden": "false",
+                                "uid": "1588296316843646:534374",
+                                "fileId": "3",
+                                "originalId": "4",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Specular",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "11",
+                                "dependency": "1",
+                                "hidden": "false",
+                                "uid": "1588296316857901:534385",
+                                "fileId": "5",
+                                "originalId": "6",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "~Resources",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "968",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Misc",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "969",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "Eraser Resources",
+                                        "type": "0",
+                                        "subtype": "-1",
+                                        "resourceId": "-1",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "-1:-1",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "970",
+                                        "source": "",
+                                        "additional": "",
+                                        "resources": [
+                                            {
+                                                "name": "Materials",
+                                                "type": "0",
+                                                "subtype": "-1",
+                                                "resourceId": "-1",
+                                                "dependency": "0",
+                                                "hidden": "false",
+                                                "uid": "-1:-1",
+                                                "fileId": "18446744073709551615",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "971",
+                                                "source": "",
+                                                "additional": "",
+                                                "resources": [
+                                                    {
+                                                        "name": "Contraction",
+                                                        "type": "2",
+                                                        "subtype": "0",
+                                                        "resourceId": "12",
+                                                        "dependency": "0",
+                                                        "hidden": "false",
+                                                        "uid": "1634631637544515:3842",
+                                                        "fileId": "8",
+                                                        "originalId": "9",
+                                                        "publicId": "972",
+                                                        "source": "",
+                                                        "additional": ""
+                                                    },
+                                                    {
+                                                        "name": "FinalMerge",
+                                                        "type": "2",
+                                                        "subtype": "0",
+                                                        "resourceId": "13",
+                                                        "dependency": "0",
+                                                        "hidden": "false",
+                                                        "uid": "1634631637596043:3859",
+                                                        "fileId": "10",
+                                                        "originalId": "11",
+                                                        "publicId": "973",
+                                                        "source": "",
+                                                        "additional": ""
+                                                    },
+                                                    {
+                                                        "name": "Composition",
+                                                        "type": "2",
+                                                        "subtype": "0",
+                                                        "resourceId": "14",
+                                                        "dependency": "0",
+                                                        "hidden": "false",
+                                                        "uid": "1634631637644593:3876",
+                                                        "fileId": "12",
+                                                        "originalId": "13",
+                                                        "publicId": "974",
+                                                        "source": "",
+                                                        "additional": ""
+                                                    },
+                                                    {
+                                                        "name": "ImageMaskDownsample",
+                                                        "type": "2",
+                                                        "subtype": "0",
+                                                        "resourceId": "15",
+                                                        "dependency": "0",
+                                                        "hidden": "false",
+                                                        "uid": "1634631637688595:3893",
+                                                        "fileId": "14",
+                                                        "originalId": "15",
+                                                        "publicId": "975",
+                                                        "source": "",
+                                                        "additional": ""
+                                                    },
+                                                    {
+                                                        "name": "ContractionAll",
+                                                        "type": "2",
+                                                        "subtype": "0",
+                                                        "resourceId": "16",
+                                                        "dependency": "0",
+                                                        "hidden": "false",
+                                                        "uid": "1634631637738344:3914",
+                                                        "fileId": "16",
+                                                        "originalId": "17",
+                                                        "publicId": "976",
+                                                        "source": "",
+                                                        "additional": ""
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "name": "Textures",
+                                                "type": "0",
+                                                "subtype": "-1",
+                                                "resourceId": "-1",
+                                                "dependency": "0",
+                                                "hidden": "false",
+                                                "uid": "-1:-1",
+                                                "fileId": "18446744073709551615",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "977",
+                                                "source": "",
+                                                "additional": "",
+                                                "resources": [
+                                                    {
+                                                        "name": "Screen Texture",
+                                                        "type": "1",
+                                                        "subtype": "16",
+                                                        "resourceId": "17",
+                                                        "dependency": "0",
+                                                        "hidden": "false",
+                                                        "uid": "1634631637782083:3929",
+                                                        "fileId": "18446744073709551615",
+                                                        "originalId": "18446744073709551615",
+                                                        "publicId": "18446744073709551615",
+                                                        "source": "",
+                                                        "additional": ""
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "name": "Scripts",
+                                                "type": "0",
+                                                "subtype": "-1",
+                                                "resourceId": "-1",
+                                                "dependency": "0",
+                                                "hidden": "false",
+                                                "uid": "-1:-1",
+                                                "fileId": "18446744073709551615",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "978",
+                                                "source": "",
+                                                "additional": "",
+                                                "resources": [
+                                                    {
+                                                        "name": "Eraser",
+                                                        "type": "4",
+                                                        "subtype": "0",
+                                                        "resourceId": "18",
+                                                        "dependency": "0",
+                                                        "hidden": "false",
+                                                        "uid": "1634631637787859:3939",
+                                                        "fileId": "18",
+                                                        "originalId": "18446744073709551615",
+                                                        "publicId": "979",
+                                                        "source": "C:\/Users\/Legedith\/AppData\/Local\/Temp\/Lens Studio-wTHWEZ\/\/system\/\/emergencyFiles\/emergencyJs.js",
+                                                        "additional": ""
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "erased",
+                                        "type": "1",
+                                        "subtype": "1",
+                                        "resourceId": "19",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1634631637797318:3951",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "18446744073709551615",
+                                        "source": "",
+                                        "additional": {
+                                            "RenderTargetRole": "2"
+                                        }
+                                    },
+                                    {
+                                        "name": "Body Segmentation",
+                                        "type": "1",
+                                        "subtype": "14",
+                                        "resourceId": "20",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1634631637798883:3965",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "18446744073709551615",
+                                        "source": "",
+                                        "additional": ""
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        "InspectorController": {
+            "selection": ""
+        },
+        "EffectsController": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "10": "",
+            "11": "",
+            "12": "",
+            "13": "",
+            "14": "",
+            "15": "",
+            "16": "",
+            "17": "",
+            "18": "",
+            "19": "",
+            "20": "",
+            "22": "",
+            "23": "",
+            "24": "",
+            "25": "",
+            "26": "",
+            "27": "",
+            "28": "",
+            "29": "",
+            "30": "",
+            "31": "",
+            "32": ""
+        },
+        "ObjectPrefabController": {
+            "state": {
+                "objectToInfo": ""
+            },
+            "importInfo": ""
+        },
+        "Compression::IController": {
+            "compression_info": ""
+        },
+        "AssetLibController": {
+            "itemUidToID": ""
+        }
+    },
+    "templateName": "Empty Project",
+    "templateUrl": "Lens Studio version 4.4.1"
+}
